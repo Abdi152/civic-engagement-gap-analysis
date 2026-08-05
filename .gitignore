@@ -1,0 +1,50 @@
+# Raw Census downloads (re-downloadable from Census API)
+B05001-Column-Metadata.csv
+B05001-Data.csv
+B05001-Table-Notes.txt
+B05006-Column-Metadata.csv
+B05006-Data.csv
+B05006-Table-Notes.txt
+DuPage_B05001-Column-Metadata.csv
+DuPage_B05001-Data.csv
+DuPage_B05001-Table-Notes.txt
+DuPage_B05006-Column-Metadata.csv
+DuPage_B05006-Data.csv
+DuPage_B05006-Table-Notes.txt
+
+# Raw geo/election source files (re-downloadable from TIGER/Line or election board)
+Boundaries_(2023-2024).csv
+detail.xml
+tract_xml1.xml
+tract_xml2.xml
+Election_Precincts.geojson
+Precinct.geojson
+tl_2023_17_tract.dbf
+tl_2023_17_tract.prj
+tl_2023_17_tract.shp
+tl_2023_17_tract.shx
+
+# Intermediate/derived files (regenerable by re-running notebooks)
+all_regions_map_ready.csv
+df_citizen_clean.csv
+df_citizen_dupage_clean.csv
+df_muslim_clean.csv
+df_muslim_clean_dupage.csv
+dupage_map_ready.csv
+dupage_shapes.csv
+dupage_township_election_2022_general.csv
+dupage_township_pop.csv
+election-data.csv
+suburban_cook_election_2022_general_1.csv
+suburban_election_clean.csv
+townships_shapes.csv
+township_map_ready.csv
+township_pop.csv
+wards_shapes.csv
+ward_election_clean.csv
+ward_map_ready.csv
+ward_pop.csv
+
+# System files
+.DS_Store
+Thumbs.db
